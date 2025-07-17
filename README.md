@@ -1,2 +1,1 @@
-# Resume
-Management Student Resume
+
